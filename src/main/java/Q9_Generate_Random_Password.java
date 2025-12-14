@@ -1,6 +1,15 @@
 import java.util.Random;
 
 public class Q9_Generate_Random_Password {
+
+    //Generate a random password with the following rules:
+    //Must be 8 characters long
+    //Must include at least:
+    //One uppercase letter
+    //One lowercase letter
+    //One numeric digit
+    //One special character
+
     public static void main(String[] args) {
 
         String password = genrateRandomPassword(8);

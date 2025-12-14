@@ -3,6 +3,9 @@ import java.util.Map;
 
 public class Q5_Occurance_of_Numbers {
 
+    //numbers[] = {1, 2, 2, 3, 3, 3, 4, 4, 4, 4}
+    //Count the occurrence of each number.
+
     public static void main(String[] args) {
 
         int[] numbers = {1, 2, 2, 3, 3, 3, 4, 4, 4, 4};

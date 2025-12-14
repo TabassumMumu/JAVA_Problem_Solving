@@ -1,5 +1,8 @@
 public class Q8_permutations_of_String {
 
+    //Input string: "cat"
+    //Print all possible permutations of the string and count them.
+
     static int count = 0;
 
     public static void main(String[] args) {

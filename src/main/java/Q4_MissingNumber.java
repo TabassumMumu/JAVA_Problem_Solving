@@ -1,5 +1,9 @@
 public class Q4_MissingNumber {
 
+    //Find the missing number in the array:
+    //numbers[] = {0, 1, 2, 4, 5}
+    //Use the formula: n(n+1)/2 - sum(array)
+
     public static void main(String[] args) {
 
         int[] numbers = {0, 1, 2, 4, 5};

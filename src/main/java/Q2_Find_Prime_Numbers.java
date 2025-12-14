@@ -1,5 +1,9 @@
 public class Q2_Find_Prime_Numbers {
 
+    //Given an array:
+    //numbers[] = {11, 7, 2, 15, 6}
+    //Calculate the sum of all prime numbers in the array.
+
     public static boolean isPrime(int num){
 
         if(num <= 1)

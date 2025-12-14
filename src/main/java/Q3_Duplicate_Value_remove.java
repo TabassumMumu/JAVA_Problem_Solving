@@ -2,6 +2,10 @@ import java.util.HashSet;
 
 public class Q3_Duplicate_Value_remove {
 
+    //Given an array with duplicates:
+    //numbers[] = {11, 7, 7, 11, 2, 15, 6, 6}
+    //Remove all duplicate values and then calculate the sum of the unique elements.
+
     public static void main(String[] args) {
         int[] numbers = {11, 7, 7, 11, 2, 15, 6, 6};
 

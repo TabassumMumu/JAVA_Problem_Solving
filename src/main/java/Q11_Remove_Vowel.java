@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class Q11_Remove_Vowel {
 
+    //Remove all vowels from a string
+
     public static void main(String[] args) {
 
         System.out.println("Enter the Sentence: ");

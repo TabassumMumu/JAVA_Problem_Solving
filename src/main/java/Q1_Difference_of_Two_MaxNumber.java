@@ -1,5 +1,9 @@
 public class Q1_Difference_of_Two_MaxNumber {
 
+    //Given an array:
+    //numbers[] = {11, 7, 2, 15, 6}
+    //Find the difference between the maximum and second maximum value.
+
     public static void main(String[] args) {
         int[] numbers = {11, 7, 2, 15, 6};
         int max = numbers[0];
