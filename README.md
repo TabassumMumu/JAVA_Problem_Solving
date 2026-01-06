@@ -142,3 +142,6 @@ Total permutations: 6
 - Improve problem-solving confidence
 
 ---
+## 📚 Problem-solving Document
+https://docs.google.com/document/d/1U06boOqouHreNy4cW3P7viBzc4X5N7qRT-Hcuc7uZ3I/edit?usp=sharing
+
